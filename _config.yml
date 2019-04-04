@@ -1,6 +1,6 @@
 name: Xteam coding challenges
 title: Xteam coding challenges
-theme: jekyll-theme-hacker
+theme: jekyll-theme-cayman
 baseurl: /weekly-challenges
 
 collections:
