@@ -5,36 +5,5 @@ This programm is founded with the aim to train Xteam members' coding skills. Eve
 - Pull request your own solution (if you're really proud of it)
 - Pull request new challenges. Your challenge could be from any coding languages, ranged from all levels.
 
-### Developer's note:
-- [By Minh Duc]({{site.baseurl}}/developerNote)
-
-## Challenges included
-### ReactJS
-<ul>
-    {% for challenge in site.reactjs %}
-        <li>
-            <a href="{{ challenge.url | prepend: site.baseurl }}">{{ challenge.title }}</a>
-            <li>Level: {{challenge.level}}</li>
-        </li>
-    {% endfor %}
-</ul>
-
-### NodeJS
-<ul>
-    {% for challenge in site.nodejs %}
-        <li>
-            <a href="{{ challenge.url | prepend: site.baseurl }}">{{ challenge.title }}</a>
-            <li>Level: {{challenge.level}}</li>
-        </li>
-    {% endfor %}
-</ul>
-
-### Other technology
-<ul>
-    {% for challenge in site.other %}
-        <li>
-            <a href="{{ challenge.url | prepend: site.baseurl }}">{{ challenge.title }}</a>
-            <li>Level: {{challenge.level}}</li>
-        </li>
-    {% endfor %}
-</ul>
+## Website to view challenges: 
+[Weekly challenges for Xteam members](https://vietcode-xteam.github.io/weekly-challenges/)
