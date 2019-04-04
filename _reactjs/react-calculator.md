@@ -1,5 +1,6 @@
 ---
 title: React Calculator
+level: Intermediate
 ---
 # React Calculator
 

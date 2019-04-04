@@ -1,5 +1,6 @@
 ---
 title: React Color Code Guessing Game
+level: Easy
 ---
 # Color Code Guessing Game
 - Level: Easy

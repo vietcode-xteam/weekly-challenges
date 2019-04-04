@@ -4,9 +4,15 @@ theme: jekyll-theme-cayman
 baseurl: /weekly-challenges
 
 collections:
-  challenges:
+  reactjs:
     output: true
-    permalink: /challenges/:path
+    permalink: /reactjs/:path
+  nodejs: 
+    output: true
+    permalink: /nodejs/:path
+  other:
+    output: true
+    permalink: /others/:path
 
 defaults:
   - scope:

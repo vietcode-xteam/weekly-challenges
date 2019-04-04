@@ -1,5 +1,6 @@
 ---
 title: Node Quiz on Terminal
+level: Easy - Intermediate
 ---
 
 # An interactive quiz game built with Nodejs and Open Trivia DB
@@ -57,13 +58,13 @@ This quiz game has 3 essential features (`initGame()`, `playGame()`, `saveGameTo
 
     - In each round:
 
-    - Print in the terminal the quiz's description and all possible answers
+        - Print in the terminal the quiz's description and all possible answers
 
-    - Prompt answer from user and validate its accuracy
+        - Prompt answer from user and validate its accuracy
 
-    - If the answer is correct, user gets +1 point
+            - If the answer is correct, user gets +1 point
 
-    - Else, user gets 0 point
+            - Else, user gets 0 point
 
     - Game ended when all of the questions is played
 
