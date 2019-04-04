@@ -6,3 +6,4 @@ baseurl: /weekly-challenges
 collections:
   challenges:
     output: true
+    permalink: /challenges/:path
