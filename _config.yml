@@ -7,3 +7,9 @@ collections:
   challenges:
     output: true
     permalink: /challenges/:path
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
