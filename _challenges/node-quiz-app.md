@@ -1,5 +1,6 @@
 ---
 title: Node Quiz on Terminal
+layout: page
 ---
 
 # An interactive quiz game built with Nodejs and Open Trivia DB
