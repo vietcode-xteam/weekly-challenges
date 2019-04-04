@@ -1,6 +1,5 @@
 ---
 title: React Calculator
-layout: page
 ---
 # React Calculator
 
