@@ -9,7 +9,7 @@ level: Easy
 ## TASK DESCRIPTION
 ### How to play
 - Show user a random color 
-- Prompt user to fill in the color's code (in HEX || RGB fornat)
+- Prompt user to fill in the color's code (in HEX or RGB fornat)
 - User can check the validity of their guess. If their guess is wrong, they can try again for 2 more times.
 - User can restart the game
 
