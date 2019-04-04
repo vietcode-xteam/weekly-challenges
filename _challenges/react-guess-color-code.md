@@ -1,3 +1,6 @@
+---
+title: React Color Code Guessing Game
+---
 # Color Code Guessing Game
 - Level: Easy
 - Training for: ReactJs, HTML, CSS

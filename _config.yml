@@ -1,2 +1,8 @@
+name: Xteam coding challenges
+title: Xteam coding challenges
 theme: jekyll-theme-hacker
 baseurl: /weekly-challenges
+
+collections:
+  challenges:
+    output: true

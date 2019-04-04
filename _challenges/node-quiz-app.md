@@ -1,3 +1,7 @@
+---
+title: Node Quiz on Terminal
+---
+
 # An interactive quiz game built with Nodejs and Open Trivia DB
 
 > Written by: Lan Dang (github.com/hl271)

@@ -1,3 +1,6 @@
+---
+title: React Calculator
+---
 # React Calculator
 
 ## TASK DESCRIPTION
