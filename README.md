@@ -6,10 +6,10 @@ This programm is founded with the aim to train Xteam members' coding skills. Eve
 ## Challenges included
 ### ReactJS
 - Level: Easy
-    - (Color code's guessing game)[/react-guessColorCode]
+    - [Color code's guessing game](/react-guessColorCode)
 - Level: Intermediate
-    - (React Calculator)[/react-calculator]
+    - [React Calculator](/react-calculator)
 
 ### NodeJS
 - Commandline:
-    - (Node Quiz's app)[/node-quizApp]
+    - [Node Quiz's app](/node-quizApp)
