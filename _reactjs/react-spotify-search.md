@@ -23,9 +23,9 @@ Create a simple react app that searches playlists on Spotify
 
 ### App layout
 #### Homescreen
-![Home Screen](images\react-spotify-search\homepage.png)
+![Home Screen](../images/react-spotify-search/homepage.png)
 #### Display search's results
-![Search Result](images\react-spotify-search\search_results.png)
+![Search Result](../images/react-spotify-search/search_results.png)
 
 ### ATTENTION!
 Your app doesn't need to be perfect. As long as it can handles all of the basic functionalities, you'd be rest assured. 
